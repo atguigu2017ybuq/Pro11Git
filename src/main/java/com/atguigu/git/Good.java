@@ -6,6 +6,7 @@ public class Good {
 		System.out.println("right edit");
 		//...
 		System.out.println("left edit");
+		System.out.println("edit in feature_A");
 	}
 
 }
